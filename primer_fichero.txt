@@ -1,1 +1,2 @@
-este es un ejemplo v1
+este es un ejemplo v2
+añadido más texto
